@@ -13,10 +13,6 @@ void clusterWake() {
   if (currentMillis - lastIncrementTime >= 1400) {
     lastIncrementTime = currentMillis;
     checksum++;
-
-    Serial.print("Byte 4 updated: 0x");
-    if (checksum < 0x10) Serial.print("0");
-    Serial.println(checksum, HEX);
   }
 
   // Set up the frame data
