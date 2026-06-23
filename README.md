@@ -8,4 +8,4 @@
 - This has been created with the help of AI
 - I'm also going to include some other helpful files
 
-[Links in the Wiki](https://github.com/noahtrr/e90_can/wiki)
+[Links in the Wiki](https://github.com/noahtrr/e90_can/wiki/Links)
