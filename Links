@@ -1,13 +1,13 @@
 # CAN
 
-- https://www.loopybunny.co.uk/CarPC/k_can.html
-- https://github.com/nberlette/canbus/blob/main/dbc/bmw-e90.dbc
+https://www.loopybunny.co.uk/CarPC/k_can.html
+https://github.com/nberlette/canbus/blob/main/dbc/bmw-e90.dbc
 
 # Tools
 
-- https://www.csselectronics.com/pages/dbc-editor-can-bus-database
+https://www.csselectronics.com/pages/dbc-editor-can-bus-database
 
 # Docs
 
-- https://ia800902.us.archive.org/26/items/BMWTechnicalTrainingDocuments/ST502%20E90%20Complete%20Vehicle/07_E90%20Driver%20Info%20Systems.pdf
-- https://github.com/autowp/arduino-mcp2515
+https://ia800902.us.archive.org/26/items/BMWTechnicalTrainingDocuments/ST502%20E90%20Complete%20Vehicle/07_E90%20Driver%20Info%20Systems.pdf
+https://github.com/autowp/arduino-mcp2515
