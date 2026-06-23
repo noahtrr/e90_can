@@ -6,7 +6,7 @@
 unsigned long last100msTime = 0;
 const unsigned long interval100ms = 100;
 
-// Timer für den 200ms Takt (Airbag, Gurt & zukünftige 200ms-Nachrichten)
+// Timer für den 200ms Takt (Airbag & Gurt)
 unsigned long last200msTime = 0;
 const unsigned long interval200ms = 200;
 
@@ -35,10 +35,6 @@ void loop() {
   if (currentMillis - last200msTime >= interval200ms) {
     last200msTime = currentMillis;
 
-    // Sendet die Airbag-Nachricht und erhöht den Zähler
     sendeAirbagCounter();
-    
-    // Hier kannst du später einfach weitere Funktionen eintragen,
-    // die exakt alle 200ms feuern müssen!
   }
 }
